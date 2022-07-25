@@ -1,0 +1,1297 @@
+[
+  {
+    "nombre": "pizza gustosa",
+    "tipoProducto": "pizza",
+    "departamento": "cbba",
+    "precio": 61,
+    "id": "1",
+    "empresa": "cozzolisi"
+  },
+  {
+    "nombre": "pizza inferno",
+    "tipoProducto": "pizza",
+    "departamento": "cbba",
+    "id": "2",
+    "empresa": "cozzolisi"
+  },
+  {
+    "nombre": "pizza cozzolisi",
+    "tipoProducto": "pizza",
+    "departamento": "cbba",
+    "precio": 61,
+    "id": "3",
+    "empresa": "cozzolisi"
+  },
+  {
+    "nombre": "pizza criolla",
+    "tipoProducto": "pizza",
+    "departamento": "cbba",
+    "precio": 61,
+    "id": "4",
+    "empresa": "cozzolisi"
+  },
+  {
+    "nombre": "pizza bbq",
+    "tipoProducto": "pizza",
+    "departamento": "cbba",
+    "precio": 61,
+    "id": "5",
+    "empresa": "cozzolisi"
+  },
+  {
+    "nombre": "pizza calzone",
+    "tipoProducto": "pizza",
+    "departamento": "cbba",
+    "precio": 61,
+    "id": "6",
+    "empresa": "cozzolisi"
+  },
+  {
+    "nombre": "pizza pizzana",
+    "tipoProducto": "pizza",
+    "departamento": "cbba",
+    "precio": 61,
+    "id": "7",
+    "empresa": "cozzolisi"
+  },
+  {
+    "nombre": "fetuccine",
+    "tipoProducto": "pizza",
+    "departamento": "cbba",
+    "precio": 46,
+    "id": "8",
+    "empresa": "cozzolisi"
+  },
+  {
+    "nombre": "Lasana",
+    "tipoProducto": "pizza",
+    "departamento": "cbba",
+    "precio": 46,
+    "id": "9",
+    "empresa": "cozzolisi"
+  },
+  {
+    "nombre": "pizza napolitana",
+    "tipoProducto": "pizza",
+    "departamento": "La paz",
+    "precio": 61,
+    "id": "10",
+    "empresa": "napoly"
+  },
+  {
+    "nombre": "pizza cuatro quesos",
+    "tipoProducto": "pizza",
+    "departamento": "La Paz",
+    "precio": 61,
+    "id": "11",
+    "empresa": "napoly"
+  },
+  {
+    "nombre": "pizza margarita",
+    "tipoProducto": "pizza",
+    "departamento": "Santa Cruz",
+    "precio": 61,
+    "id": "12",
+    "empresa": "cozzolisi"
+  },
+  {
+    "nombre": "pizza de pollo",
+    "tipoProducto": "pizza",
+    "departamento": "La Paz",
+    "precio": 61,
+    "id": "13",
+    "empresa": "cozzolisi"
+  },
+  {
+    "nombre": "pizza carbonara",
+    "tipoProducto": "pizza",
+    "departamento": "Santa Cruz",
+    "precio": 61,
+    "id": "14",
+    "empresa": "cozzolisi"
+  },
+  {
+    "nombre": "barbacoa",
+    "tipoProducto": "pizza",
+    "departamento": "Santa Cruz",
+    "precio": 70,
+    "id": "15",
+    "empresa": "cozzolisi"
+  },
+  {
+    "nombre": "Lasana",
+    "tipoProducto": "pizza",
+    "departamento": "Santa Cruz",
+    "precio": 70,
+    "id": "16",
+    "empresa": "cozzolisi"
+  },
+  {
+    "nombre": "hawayana",
+    "tipoProducto": "pizza",
+    "departamento": "Santa Cruz",
+    "precio": 70,
+    "id": "17",
+    "empresa": "chernobyl"
+  },
+  {
+    "nombre": "majaito",
+    "tipoProducto": "comida nacional",
+    "departamento": "Santa Cruz",
+    "precio": 90,
+    "id": "18",
+    "empresa": "arriero"
+  },
+  {
+    "nombre": "cruadril",
+    "tipoProducto": "comida nacional",
+    "departamento": "Santa Cruz",
+    "precio": 90,
+    "id": "19",
+    "empresa": "arriero"
+  },
+  {
+    "nombre": "cheruje",
+    "tipoProducto": "comida nacional",
+    "departamento": "Santa Cruz",
+    "precio": 90,
+    "id": "20",
+    "empresa": "sabor riberalteno"
+  },
+  {
+    "nombre": "pastel de yuca",
+    "tipoProducto": "comida nacional",
+    "departamento": "Santa Cruz",
+    "precio": 90,
+    "id": "21",
+    "empresa": "arriero"
+  },
+  {
+    "nombre": "parrillada",
+    "tipoProducto": "comida nacional",
+    "departamento": "Santa Cruz",
+    "precio": 120,
+    "id": "22",
+    "empresa": "los hierros"
+  },
+  {
+    "nombre": "tambaqui",
+    "tipoProducto": "comida nacional",
+    "departamento": "Santa Cruz",
+    "precio": 120,
+    "id": "23",
+    "empresa": "los hierros"
+  },
+  {
+    "nombre": "pacu",
+    "tipoProducto": "comida nacional",
+    "departamento": "Santa Cruz",
+    "precio": 120,
+    "id": "24",
+    "empresa": "los hierros"
+  },
+  {
+    "nombre": "surubi",
+    "tipoProducto": "comida nacional",
+    "departamento": "Santa Cruz",
+    "precio": 100,
+    "id": "25",
+    "empresa": "los hierros"
+  },
+  {
+    "nombre": "pique",
+    "tipoProducto": "comida nacional",
+    "departamento": "cochabamba",
+    "precio": 100,
+    "id": "26",
+    "empresa": "casa del campo"
+  },
+  {
+    "nombre": "pique lobo",
+    "tipoProducto": "comida nacional",
+    "departamento": "cochabamba",
+    "precio": 130,
+    "id": "27",
+    "empresa": "casa del campo"
+  },
+  {
+    "nombre": "charque",
+    "tipoProducto": "comida nacional",
+    "departamento": "cochabamba",
+    "precio": 100,
+    "id": "28",
+    "empresa": "casa del campo"
+  },
+  {
+    "nombre": "pampacu",
+    "tipoProducto": "comida nacional",
+    "departamento": "cochabamba",
+    "precio": 130,
+    "id": "29",
+    "empresa": "casa del campo"
+  },
+  {
+    "nombre": "pollo croketas",
+    "tipoProducto": "comida nacional",
+    "departamento": "cochabamba",
+    "precio": 100,
+    "id": "30",
+    "empresa": "panchita"
+  },
+  {
+    "nombre": "pollo frito",
+    "tipoProducto": "comida nacional",
+    "departamento": "cochabamba",
+    "precio": 130,
+    "id": "31",
+    "empresa": "panchita"
+  },
+  {
+    "nombre": "pollo al horno",
+    "tipoProducto": "comida nacional",
+    "departamento": "cochabamba",
+    "precio": 100,
+    "id": "32",
+    "empresa": "panchita"
+  },
+  {
+    "nombre": "pollo dorado",
+    "tipoProducto": "comida nacional",
+    "departamento": "cochabamba",
+    "precio": 130,
+    "id": "33",
+    "empresa": "panchita"
+  },
+  {
+    "nombre": "sillpancho",
+    "tipoProducto": "comida nacional",
+    "departamento": "cochabamba",
+    "precio": 80,
+    "id": "34",
+    "empresa": "panchita"
+  },
+  {
+    "nombre": "humintas",
+    "tipoProducto": "comida nacional",
+    "departamento": "cochabamba",
+    "precio": 70,
+    "id": "35",
+    "empresa": "panchita"
+  },
+  {
+    "nombre": "sopa mani",
+    "tipoProducto": "comida nacional",
+    "departamento": "cochabamba",
+    "precio": 80,
+    "id": "36",
+    "empresa": "panchita"
+  },
+  {
+    "nombre": "falso conejo",
+    "tipoProducto": "comida nacional",
+    "departamento": "cochabamba",
+    "precio": 70,
+    "id": "37",
+    "empresa": "panchita"
+  },
+  {
+    "nombre": "patasca",
+    "tipoProducto": "comida nacional",
+    "departamento": "La Paz",
+    "precio": 100,
+    "id": "38",
+    "empresa": "mi chola"
+  },
+  {
+    "nombre": "cheruje",
+    "tipoProducto": "comida nacional",
+    "departamento": "La Paz",
+    "precio": 100,
+    "id": "39",
+    "empresa": "mi chola"
+  },
+  {
+    "nombre": "anticucho",
+    "tipoProducto": "comida nacional",
+    "departamento": "La Paz",
+    "precio": 100,
+    "id": "40",
+    "empresa": "mi chola"
+  },
+  {
+    "nombre": "plato paceno",
+    "tipoProducto": "comida nacional",
+    "departamento": "La Paz",
+    "precio": 100,
+    "id": "41",
+    "empresa": "mi chola"
+  },
+  {
+    "nombre": "picana",
+    "tipoProducto": "comida nacional",
+    "departamento": "La Paz",
+    "precio": 100,
+    "id": "42",
+    "empresa": "mi chola"
+  },
+  {
+    "nombre": "paella",
+    "tipoProducto": "comida internacional",
+    "departamento": "La Paz",
+    "precio": 170,
+    "id": "43",
+    "empresa": "viena"
+  },
+  {
+    "nombre": "paella",
+    "tipoProducto": "comida internacional",
+    "departamento": "La Paz",
+    "precio": 170,
+    "id": "44",
+    "empresa": "viena"
+  },
+  {
+    "nombre": "wiener",
+    "tipoProducto": "comida internacional",
+    "departamento": "La Paz",
+    "precio": 170,
+    "id": "45",
+    "empresa": "viena"
+  },
+  {
+    "nombre": "bratwurst",
+    "tipoProducto": "comida internacional",
+    "departamento": "La Paz",
+    "precio": 170,
+    "id": "46",
+    "empresa": "viena"
+  },
+  {
+    "nombre": "nasi goreng",
+    "tipoProducto": "comida internacional",
+    "departamento": "La Paz",
+    "precio": 170,
+    "id": "47",
+    "empresa": "viena"
+  },
+  {
+    "nombre": "gallo pinto",
+    "tipoProducto": "comida internacional",
+    "departamento": "La Paz",
+    "precio": 170,
+    "id": "48",
+    "empresa": "viena"
+  },
+  {
+    "nombre": "dim sum",
+    "tipoProducto": "comida internacional",
+    "departamento": "La Paz",
+    "precio": 170,
+    "id": "49",
+    "empresa": "viena"
+  },
+  {
+    "nombre": "bratwurst",
+    "tipoProducto": "comida internacional",
+    "departamento": "La Paz",
+    "precio": 170,
+    "id": "50",
+    "empresa": "viena"
+  },
+  {
+    "nombre": "sushi",
+    "tipoProducto": "comida internacional",
+    "departamento": "santa cruz",
+    "precio": 190,
+    "id": "51",
+    "empresa": "La Suisse"
+  },
+  {
+    "nombre": "cuaranto",
+    "tipoProducto": "comida internacional",
+    "departamento": "santa cruz",
+    "precio": 200,
+    "id": "52",
+    "empresa": "viena"
+  },
+  {
+    "nombre": "falafel",
+    "tipoProducto": "comida internacional",
+    "departamento": "santa cruz",
+    "precio": 190,
+    "id": "53",
+    "empresa": "La Suisse"
+  },
+  {
+    "nombre": "ladilla rusa",
+    "tipoProducto": "comida internacional",
+    "departamento": "santa cruz",
+    "precio": 200,
+    "id": "54",
+    "empresa": "La Suisse"
+  },
+  {
+    "nombre": "tacos",
+    "tipoProducto": "comida internacional",
+    "departamento": "santa cruz",
+    "precio": 190,
+    "id": "55",
+    "empresa": "La Suisse"
+  },
+  {
+    "nombre": "frijolada",
+    "tipoProducto": "comida internacional",
+    "departamento": "santa cruz",
+    "precio": 200,
+    "id": "56",
+    "empresa": "La Suisse"
+  },
+  {
+    "nombre": "hamburguesa",
+    "tipoProducto": "comida internacional",
+    "departamento": "cochabamba",
+    "precio": 100,
+    "id": "57",
+    "empresa": "factory"
+  },
+  {
+    "nombre": "pollo tandoori",
+    "tipoProducto": "comida internacional",
+    "departamento": "cochabamba",
+    "precio": 150,
+    "id": "58",
+    "empresa": "factory"
+  },
+  {
+    "nombre": "ceviche",
+    "tipoProducto": "comida internacional",
+    "departamento": "cochabamba",
+    "id": "59",
+    "precio": 200,
+    "empresa": "factory"
+  },
+  {
+    "nombre": "papas a la huancaina",
+    "tipoProducto": "comida internacional",
+    "departamento": "cochabamba",
+    "id": "60",
+    "precio": 100,
+    "empresa": "factory"
+  },
+  {
+    "nombre": "fist and chips",
+    "tipoProducto": "comida internacional",
+    "departamento": "cochabamba",
+    "precio": 150,
+    "id": "61",
+    "empresa": "factory"
+  },
+  {
+    "nombre": "moules frites",
+    "tipoProducto": "comida internacional",
+    "departamento": "cochabamba",
+    "precio": 200,
+    "id": "62",
+    "empresa": "factory"
+  },
+  {
+    "nombre": "bacalao",
+    "tipoProducto": "comida internacional",
+    "departamento": "cochabamba",
+    "precio": 90,
+    "id": "63",
+    "empresa": "factory"
+  },
+  {
+    "nombre": "crema para cafe",
+    "tipoProducto": "abarrotes",
+    "departamento": "cochabamba",
+    "precio": 50,
+    "id": "64",
+    "empresa": "marin"
+  },
+  {
+    "nombre": "pure de tomate",
+    "tipoProducto": "abarrotes",
+    "departamento": "santa cruz",
+    "precio": 40,
+    "id": "65",
+    "empresa": "siaran"
+  },
+  {
+    "nombre": "alimento para bebe",
+    "tipoProducto": "abarrotes",
+    "departamento": "cochabamba",
+    "precio": 30,
+    "id": "66",
+    "empresa": "hipermaxi"
+  },
+  {
+    "nombre": "atole",
+    "tipoProducto": "abarrotes",
+    "departamento": "santa cruz",
+    "precio": 40,
+    "id": "67",
+    "empresa": "siaran"
+  },
+  {
+    "nombre": "avena",
+    "tipoProducto": "abarrotes",
+    "departamento": "cochabamba",
+    "precio": 60,
+    "id": "68",
+    "empresa": "hipermaxi"
+  },
+  {
+    "nombre": "azucar",
+    "tipoProducto": "abarrotes",
+    "departamento": "cochabamba",
+    "precio": 50,
+    "id": "69",
+    "empresa": "marin"
+  },
+  {
+    "nombre": "cafe",
+    "tipoProducto": "abarrotes",
+    "departamento": "santa cruz",
+    "precio": 40,
+    "id": "70",
+    "empresa": "siaran"
+  },
+  {
+    "nombre": "cereales",
+    "tipoProducto": "abarrotes",
+    "departamento": "cochabamba",
+    "precio": 30,
+    "id": "71",
+    "empresa": "hipermaxi"
+  },
+  {
+    "nombre": "chile piquin",
+    "tipoProducto": "abarrotes",
+    "departamento": "santa cruz",
+    "precio": 40,
+    "id": "72",
+    "empresa": "siaran"
+  },
+  {
+    "nombre": "especias",
+    "tipoProducto": "abarrotes",
+    "departamento": "cochabamba",
+    "precio": 60,
+    "id": "73",
+    "empresa": "hipermaxi"
+  },
+  {
+    "nombre": "flan en polvo",
+    "tipoProducto": "abarrotes",
+    "departamento": "cochabamba",
+    "precio": 50,
+    "id": "74",
+    "empresa": "marin"
+  },
+  {
+    "nombre": "formulas infantiles",
+    "tipoProducto": "abarrotes",
+    "departamento": "santa cruz",
+    "precio": 40,
+    "id": "75",
+    "empresa": "siaran"
+  },
+  {
+    "nombre": "gelatina",
+    "tipoProducto": "abarrotes",
+    "departamento": "cochabamba",
+    "precio": 30,
+    "id": "76",
+    "empresa": "hipermaxi"
+  },
+  {
+    "nombre": "grenetina",
+    "tipoProducto": "abarrotes",
+    "departamento": "santa cruz",
+    "precio": 40,
+    "id": "77",
+    "empresa": "siaran"
+  },
+  {
+    "nombre": "harina",
+    "tipoProducto": "abarrotes",
+    "departamento": "cochabamba",
+    "precio": 60,
+    "id": "78",
+    "empresa": "hipermaxi"
+  },
+  {
+    "nombre": "mole",
+    "tipoProducto": "abarrotes",
+    "departamento": "cochabamba",
+    "precio": 30,
+    "id": "79",
+    "empresa": "hipermaxi"
+  },
+  {
+    "nombre": "sal",
+    "tipoProducto": "abarrotes",
+    "departamento": "santa cruz",
+    "precio": 40,
+    "id": "80",
+    "empresa": "siaran"
+  },
+  {
+    "nombre": "sal envasada",
+    "tipoProducto": "abarrotes",
+    "departamento": "cochabamba",
+    "precio": 60,
+    "id": "81",
+    "empresa": "hipermaxi"
+  },
+  {
+    "nombre": "sazonadores",
+    "tipoProducto": "abarrotes",
+    "departamento": "santa cruz",
+    "precio": 40,
+    "id": "82",
+    "empresa": "siaran"
+  },
+  {
+    "nombre": "sopas en sobre",
+    "tipoProducto": "abarrotes",
+    "departamento": "cochabamba",
+    "precio": 60,
+    "id": "83",
+    "empresa": "hipermaxi"
+  },
+  {
+    "nombre": "cajeta",
+    "tipoProducto": "abarrotes",
+    "departamento": "santa cruz",
+    "precio": 40,
+    "id": "84",
+    "empresa": "siaran"
+  },
+  {
+    "nombre": "ketchup",
+    "tipoProducto": "abarrotes",
+    "departamento": "cochabamba",
+    "precio": 60,
+    "id": "85",
+    "empresa": "hipermaxi"
+  },
+  {
+    "nombre": "mayonesa",
+    "tipoProducto": "abarrotes",
+    "departamento": "santa cruz",
+    "precio": 40,
+    "id": "86",
+    "empresa": "siaran"
+  },
+  {
+    "nombre": "mermelada",
+    "tipoProducto": "abarrotes",
+    "departamento": "cochabamba",
+    "precio": 60,
+    "id": "87",
+    "empresa": "hipermaxi"
+  },
+  {
+    "nombre": "miel",
+    "tipoProducto": "abarrotes",
+    "departamento": "cochabamba",
+    "precio": 60,
+    "id": "88",
+    "empresa": "hipermaxi"
+  },
+  {
+    "nombre": "te",
+    "tipoProducto": "abarrotes",
+    "departamento": "cochabamba",
+    "precio": 20,
+    "id": "89",
+    "empresa": "hipermaxi"
+  },
+  {
+    "nombre": "vinagre",
+    "tipoProducto": "abarrotes",
+    "departamento": "cochabamba",
+    "precio": 20,
+    "id": "90",
+    "empresa": "hipermaxi"
+  },
+  {
+    "nombre": "aceitunas enlatadas",
+    "tipoProducto": "abarrotes",
+    "departamento": "cochabamba",
+    "precio": 20,
+    "id": "91",
+    "empresa": "hipermaxi"
+  },
+  {
+    "nombre": "champinones enlatados",
+    "tipoProducto": "abarrotes",
+    "departamento": "cochabamba",
+    "precio": 20,
+    "id": "92",
+    "empresa": "hipermaxi"
+  },
+  {
+    "nombre": "chicharros",
+    "tipoProducto": "abarrotes",
+    "departamento": "cochabamba",
+    "precio": 30,
+    "id": "93",
+    "empresa": "hipermaxi"
+  },
+  {
+    "nombre": "frutas almibar",
+    "tipoProducto": "abarrotes",
+    "departamento": "cochabamba",
+    "precio": 50,
+    "id": "94",
+    "empresa": "hipermaxi"
+  },
+  {
+    "nombre": "atun",
+    "tipoProducto": "abarrotes",
+    "departamento": "cochabamba",
+    "precio": 30,
+    "id": "95",
+    "empresa": "hipermaxi"
+  },
+  {
+    "nombre": "sardinas",
+    "tipoProducto": "abarrotes",
+    "departamento": "cochabamba",
+    "precio": 50,
+    "id": "96",
+    "empresa": "hipermaxi"
+  },
+  {
+    "nombre": "sardinas",
+    "tipoProducto": "abarrotes",
+    "departamento": "cochabamba",
+    "precio": 50,
+    "id": "97",
+    "empresa": "hipermaxi"
+  },
+  {
+    "nombre": "leche condensada",
+    "tipoProducto": "lacteos",
+    "departamento": "cochabamba",
+    "precio": 50,
+    "id": "98",
+    "empresa": "hipermaxi"
+  },
+  {
+    "nombre": "leche deslactosada",
+    "tipoProducto": "lacteos",
+    "departamento": "cochabamba",
+    "precio": 60,
+    "id": "99",
+    "empresa": "hipermaxi"
+  },
+  {
+    "nombre": "leche en polvo",
+    "tipoProducto": "lacteos",
+    "departamento": "cochabamba",
+    "precio": 70,
+    "id": "100",
+    "empresa": "hipermaxi"
+  },
+  {
+    "nombre": "leche light",
+    "tipoProducto": "lacteos",
+    "departamento": "cochabamba",
+    "precio": 90,
+    "id": "101",
+    "empresa": "hipermaxi"
+  },
+  {
+    "nombre": "leche saborizada",
+    "tipoProducto": "lacteos",
+    "departamento": "cochabamba",
+    "precio": 50,
+    "id": "102",
+    "empresa": "hipermaxi"
+  },
+  {
+    "nombre": "leche semidescremada",
+    "tipoProducto": "lacteos",
+    "departamento": "cochabamba",
+    "precio": 60,
+    "id": "103",
+    "empresa": "hipermaxi"
+  },
+  {
+    "nombre": "crema de leche",
+    "tipoProducto": "lacteos",
+    "departamento": "cochabamba",
+    "precio": 70,
+    "id": "104",
+    "empresa": "hipermaxi"
+  },
+  {
+    "nombre": "margarina",
+    "tipoProducto": "lacteos",
+    "departamento": "cochabamba",
+    "precio": 90,
+    "id": "105",
+    "empresa": "hipermaxi"
+  },
+  {
+    "nombre": "mantequilla",
+    "tipoProducto": "lacteos",
+    "departamento": "cochabamba",
+    "precio": 90,
+    "id": "106",
+    "empresa": "Ic Norte"
+  },
+  {
+    "nombre": "queso",
+    "tipoProducto": "lacteos",
+    "departamento": "cochabamba",
+    "precio": 90,
+    "id": "107",
+    "empresa": "IC norte"
+  },
+  {
+    "nombre": "yogurt",
+    "tipoProducto": "lacteos",
+    "departamento": "cochabamba",
+    "precio": 90,
+    "id": "108",
+    "empresa": "Ic Norte"
+  },
+  {
+    "nombre": "yogurt dietetico",
+    "tipoProducto": "lacteos",
+    "departamento": "cochabamba",
+    "precio": 90,
+    "id": "109",
+    "empresa": "IC norte"
+  },
+  {
+    "nombre": "chocolates",
+    "tipoProducto": "lacteos",
+    "departamento": "cochabamba",
+    "precio": 60,
+    "id": "110",
+    "empresa": "IC norte"
+  },
+  {
+    "nombre": "gomas de mascar",
+    "tipoProducto": "lacteos",
+    "departamento": "cochabamba",
+    "precio": 10,
+    "id": "111",
+    "empresa": "hipermaxi"
+  },
+  {
+    "nombre": "galletas avena",
+    "tipoProducto": "lacteos",
+    "departamento": "cochabamba",
+    "precio": 90,
+    "id": "112",
+    "empresa": "IC norte"
+  },
+  {
+    "nombre": "galletas saladas",
+    "tipoProducto": "lacteos",
+    "departamento": "cochabamba",
+    "precio": 50,
+    "id": "113",
+    "empresa": "IC norte"
+  },
+  {
+    "nombre": "ajos",
+    "tipoProducto": "verduras",
+    "departamento": "cochabamba",
+    "precio": 30,
+    "id": "114",
+    "empresa": "hipermaxi"
+  },
+  {
+    "nombre": "palto aguacates",
+    "tipoProducto": "verduras",
+    "departamento": "cochabamba",
+    "precio": 70,
+    "id": "115",
+    "empresa": "IC norte"
+  },
+  {
+    "nombre": "cebollas",
+    "tipoProducto": "verduras",
+    "departamento": "cochabamba",
+    "precio": 30,
+    "id": "116",
+    "empresa": "hipermaxi"
+  },
+  {
+    "nombre": "papa",
+    "tipoProducto": "verduras",
+    "departamento": "cochabamba",
+    "precio": 60,
+    "id": "117",
+    "empresa": "IC norte"
+  },
+  {
+    "nombre": "zanahoria",
+    "tipoProducto": "verduras",
+    "departamento": "cochabamba",
+    "precio": 60,
+    "id": "118",
+    "empresa": "hipermaxi"
+  },
+  {
+    "nombre": "pera",
+    "tipoProducto": "frutas",
+    "departamento": "cochabamba",
+    "precio": 20,
+    "id": "119",
+    "empresa": "IC norte"
+  },
+  {
+    "nombre": "naranja",
+    "tipoProducto": "frutas",
+    "departamento": "cochabamba",
+    "precio": 30,
+    "id": "120",
+    "empresa": "hipermaxi"
+  },
+  {
+    "nombre": "mandarina",
+    "tipoProducto": "frutas",
+    "departamento": "cochabamba",
+    "precio": 20,
+    "id": "121",
+    "empresa": "IC norte"
+  },
+  {
+    "nombre": "sandia",
+    "tipoProducto": "frutas",
+    "departamento": "cochabamba",
+    "precio": 60,
+    "id": "121",
+    "empresa": "hipermaxi"
+  },
+  {
+    "nombre": "uva",
+    "tipoProducto": "frutas",
+    "departamento": "cochabamba",
+    "precio": 20,
+    "id": "122",
+    "empresa": "IC norte"
+  },
+  {
+    "nombre": "coco",
+    "tipoProducto": "frutas",
+    "departamento": "cochabamba",
+    "precio": 30,
+    "id": "123",
+    "empresa": "hipermaxi"
+  },
+  {
+    "nombre": "banana",
+    "tipoProducto": "frutas",
+    "departamento": "cochabamba",
+    "precio": 20,
+    "id": "124",
+    "empresa": "IC norte"
+  },
+  {
+    "nombre": "banana",
+    "tipoProducto": "bebidas",
+    "departamento": "cochabamba",
+    "precio": 20,
+    "id": "125",
+    "empresa": "cascada"
+  },
+  {
+    "nombre": "agua mineral",
+    "tipoProducto": "bebidas",
+    "departamento": "cochabamba",
+    "precio": 70,
+    "id": "126",
+    "empresa": "cascada"
+  },
+  {
+    "nombre": "agua natural",
+    "tipoProducto": "bebidas",
+    "departamento": "cochabamba",
+    "precio": 40,
+    "id": "127",
+    "empresa": "Coca Cola"
+  },
+  {
+    "nombre": "agua saborizada",
+    "tipoProducto": "bebidas",
+    "departamento": "santa cruz",
+    "precio": 80,
+    "id": "128",
+    "empresa": "embol"
+  },
+  {
+    "nombre": "jugos",
+    "tipoProducto": "bebidas",
+    "departamento": "La Paz",
+    "precio": 80,
+    "id": "129",
+    "empresa": "america"
+  },
+  {
+    "nombre": "nectares",
+    "tipoProducto": "bebidas",
+    "departamento": "cochabamba",
+    "precio": 70,
+    "id": "130",
+    "empresa": "cascada"
+  },
+  {
+    "nombre": "bebidas de soya",
+    "tipoProducto": "bebidas",
+    "departamento": "cochabamba",
+    "precio": 40,
+    "id": "131",
+    "empresa": "Coca Cola"
+  },
+  {
+    "nombre": "bebidas de naranja",
+    "tipoProducto": "bebidas",
+    "departamento": "santa cruz",
+    "precio": 80,
+    "id": "132",
+    "empresa": "embol"
+  },
+  {
+    "nombre": "energizantes",
+    "tipoProducto": "bebidas",
+    "departamento": "La Paz",
+    "precio": 80,
+    "id": "133",
+    "empresa": "america"
+  },
+  {
+    "nombre": "carne de res",
+    "tipoProducto": "embutidos",
+    "departamento": "Sofia",
+    "precio": 70,
+    "id": "134",
+    "empresa": "sofia"
+  },
+  {
+    "nombre": "carne de cerdo",
+    "tipoProducto": "embutidos",
+    "departamento": "Sofia",
+    "precio": 80,
+    "id": "135",
+    "empresa": "sofia"
+  },
+  {
+    "nombre": "carne de pollo",
+    "tipoProducto": "embutidos",
+    "departamento": "Sofia",
+    "precio": 90,
+    "id": "135",
+    "empresa": "sofia"
+  },
+  {
+    "nombre": "carne de llama",
+    "tipoProducto": "embutidos",
+    "departamento": "Sofia",
+    "precio": 100,
+    "id": "136",
+    "empresa": "monica"
+  },
+  {
+    "nombre": "",
+    "tipoProducto": "embutidos",
+    "departamento": "Sofia",
+    "precio": 130,
+    "id": "137",
+    "empresa": "sofia"
+  },
+  {
+    "nombre": "toallas humedas",
+    "tipoProducto": "articulos de higiene personal",
+    "departamento": "Santa Cruz",
+    "precio": 30,
+    "id": "138",
+    "empresa": "cruzimex"
+  },
+  {
+    "nombre": "aceite para bebe",
+    "tipoProducto": "articulos de higiene personal",
+    "departamento": "Cochabamba",
+    "precio": 20,
+    "id": "139",
+    "empresa": "Nexdu"
+  },
+  {
+    "nombre": "algodon",
+    "tipoProducto": "articulos de higiene personal",
+    "departamento": "La Paz",
+    "precio": 20,
+    "id": "140",
+    "empresa": "Coimsa"
+  },
+  {
+    "nombre": "toallas femeninas",
+    "tipoProducto": "articulos de higiene personal",
+    "departamento": "Santa Cruz",
+    "precio": 30,
+    "id": "141",
+    "empresa": "cruzimex"
+  },
+  {
+    "nombre": "talco",
+    "tipoProducto": "articulos de higiene personal",
+    "departamento": "Cochabamba",
+    "precio": 20,
+    "id": "142",
+    "empresa": "Nexdu"
+  },
+  {
+    "nombre": "biberon",
+    "tipoProducto": "articulos de higiene personal",
+    "departamento": "La Paz",
+    "precio": 20,
+    "id": "143",
+    "empresa": "Coimsa"
+  },
+  {
+    "nombre": "crema corporal",
+    "tipoProducto": "articulos de higiene personal",
+    "departamento": "Santa Cruz",
+    "precio": 30,
+    "id": "144",
+    "empresa": "cruzimex"
+  },
+  {
+    "nombre": "crema facial",
+    "tipoProducto": "articulos de higiene personal",
+    "departamento": "Cochabamba",
+    "precio": 20,
+    "id": "145",
+    "empresa": "Nexdu"
+  },
+  {
+    "nombre": "crema para afeitar",
+    "tipoProducto": "articulos de higiene personal",
+    "departamento": "La Paz",
+    "precio": 20,
+    "id": "146",
+    "empresa": "Coimsa"
+  },
+  {
+    "nombre": "locion",
+    "tipoProducto": "articulos de higiene personal",
+    "departamento": "La Paz",
+    "precio": 40,
+    "id": "147",
+    "empresa": "Coimsa"
+  },
+  {
+    "nombre": "papel higienico",
+    "tipoProducto": "articulos de higiene personal",
+    "departamento": "Santa Cruz",
+    "precio": 50,
+    "id": "148",
+    "empresa": "cruzimex"
+  },
+  {
+    "nombre": "dentrificos",
+    "tipoProducto": "articulos de higiene personal",
+    "departamento": "Cochabamba",
+    "precio": 20,
+    "id": "149",
+    "empresa": "Nexdu"
+  },
+  {
+    "nombre": "desodorantes",
+    "tipoProducto": "articulos de higiene personal",
+    "departamento": "La Paz",
+    "precio": 20,
+    "id": "150",
+    "empresa": "Coimsa"
+  },
+  {
+    "nombre": "locion hidratante",
+    "tipoProducto": "articulos de higiene personal",
+    "departamento": "Cochabamba",
+    "precio": 50,
+    "id": "151",
+    "empresa": "Nexdu"
+  },
+  {
+    "nombre": "jabon",
+    "tipoProducto": "articulos de higiene personal",
+    "departamento": "La Paz",
+    "precio": 10,
+    "id": "152",
+    "empresa": "Coimsa"
+  },
+  {
+    "nombre": "detergente ropa",
+    "tipoProducto": "articulos de limpieza",
+    "departamento": "Cochabamba",
+    "precio": 80,
+    "id": "153",
+    "empresa": "Nexdu"
+  },
+  {
+    "nombre": "detergente Trastes",
+    "tipoProducto": "articulos de limpieza",
+    "departamento": "La Paz",
+    "precio": 70,
+    "id": "154",
+    "empresa": "Coimsa"
+  },
+  {
+    "nombre": "aromatizante",
+    "tipoProducto": "articulos de limpieza",
+    "departamento": "Santa Cruz",
+    "precio": 50,
+    "id": "155",
+    "empresa": "cruzimex"
+  },
+  {
+    "nombre": "limpiador liquido",
+    "tipoProducto": "articulos de limpieza",
+    "departamento": "Cochabamba",
+    "precio": 60,
+    "id": "156",
+    "empresa": "Proesa"
+  },
+  {
+    "nombre": "limpiador piso",
+    "tipoProducto": "articulos de limpieza",
+    "departamento": "Cochabamba",
+    "precio": 80,
+    "id": "157",
+    "empresa": "Nexdu"
+  },
+  {
+    "nombre": "jabon barra ",
+    "tipoProducto": "articulos de limpieza",
+    "departamento": "La Paz",
+    "precio": 70,
+    "id": "158",
+    "empresa": "Coimsa"
+  },
+  {
+    "nombre": "desinfectantes",
+    "tipoProducto": "articulos de limpieza",
+    "departamento": "Santa Cruz",
+    "precio": 50,
+    "id": "159",
+    "empresa": "cruzimex"
+  },
+  {
+    "nombre": "cepillos ",
+    "tipoProducto": "articulos de limpieza",
+    "departamento": "Cochabamba",
+    "precio": 60,
+    "id": "160",
+    "empresa": "Proesa"
+  }
+]
